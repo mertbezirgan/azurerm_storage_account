@@ -1,2 +1,2 @@
 # azurerm_storage_account
-Publice azurerm storage account module developed by Mert Bezirgan
+Public azurerm storage account module developed by Mert Bezirgan
